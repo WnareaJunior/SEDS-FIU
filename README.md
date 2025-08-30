@@ -40,17 +40,6 @@ The Mission Control frontend is built in **Python** and provides real-time monit
 
 ---
 
-## 📂 Repository Structure
-
-MissionControlFrontend/
-├── src/ # Frontend source code
-├── data/ # Recorded flight datasets
-├── docs/ # Project documentation
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
